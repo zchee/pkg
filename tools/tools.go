@@ -1,6 +1,7 @@
-// SPDX-License-Identifier: BSD-3-Clause
 // SPDX-FileCopyrightText: Copyright 2021 The pkg Authors
+// SPDX-License-Identifier: BSD-3-Clause
 
+//go:build tools
 // +build tools
 
 package tools
